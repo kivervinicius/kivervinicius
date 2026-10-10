@@ -2,8 +2,10 @@
 
 <picture>
   <source media="(max-width: 680px)" srcset="./assets/terminal-mobile.svg">
-  <img src="./assets/terminal-desktop.svg" alt="Terminal de apresentação de Kiver Teixeira: Tech Lead, engenheiro de software, mais de duas décadas de experiência; foco em engenharia, liderança, developer experience, inteligência artificial e produtos." width="100%">
+  <img src="./assets/terminal-desktop.svg" alt="Terminal de apresentação de Kiver Teixeira, engenheiro de software e líder técnico com mais de duas décadas de experiência em engenharia, liderança e desenvolvimento de produtos." width="100%">
 </picture>
+
+<h1 align="center">Kiver Teixeira</h1>
 
 <p align="center">
   <strong>Mais de duas décadas construindo software, liderando pessoas e aprendendo com tecnologia.</strong>
@@ -15,28 +17,24 @@
   <a href="https://github.com/kivervinicius?tab=repositories">Repositórios</a>
 </p>
 
-### Sobre mim
+## Sobre mim
 
-Sou engenheiro de software e líder técnico, com atuação em arquitetura de sistemas, desenvolvimento de produtos digitais e evolução de equipes de engenharia. Gosto de transformar problemas complexos em soluções simples, sustentáveis e úteis para quem as utiliza.
+Sou engenheiro de software e líder técnico, com experiência em arquitetura de sistemas, engenharia de produtos digitais e desenvolvimento de equipes. Priorizo a experiência de quem usa o software e a sustentabilidade de quem precisa mantê-lo.
 
-Atualmente, meus principais interesses estão na interseção entre **Software Engineering**, **Engineering Leadership**, **Developer Experience**, **AI Engineering**, **Product Engineering** e **mentoria**.
+Meu trabalho combina **Software Engineering**, **Engineering Leadership**, **Developer Experience**, **AI Engineering** e **Product Engineering**. Também valorizo a mentoria e a troca de conhecimento.
 
-### Tecnologias e práticas
+## Tecnologias e práticas
 
-`TypeScript` · `Node.js` · `React` · `NestJS` · `Java` · `Spring Boot` · `PostgreSQL` · `SQL Server` · `Azure` · `Kubernetes` · `CI/CD` · `Software Architecture`
+- **Aplicações:** TypeScript, Node.js, React, NestJS, Java e Spring Boot.
+- **Dados e infraestrutura:** PostgreSQL, SQL Server, Azure, Kubernetes e CI/CD.
+- **Engenharia:** arquitetura de software, qualidade, automação, experiência de desenvolvimento e IA aplicada.
 
-### Projetos e iniciativas
+## Projetos em destaque
 
-| Projeto | O que estou construindo |
-| --- | --- |
-| [Orquestrador Maestro](https://github.com/kivervinicius/Orquestrador-Maestro) | Ferramentas e fluxos de trabalho para orquestração de assistentes de IA no desenvolvimento. |
-| [Aprincar](https://github.com/aprincar/platform) | Plataforma aberta e local-first de aprendizagem por meio de jogos. |
-| [Aprincar — jogos oficiais](https://github.com/aprincar/games-official) | Ecossistema de experiências educacionais e seus artefatos. |
+- **[Orquestrador Maestro](https://github.com/IAPro-Community/Orquestrador-Maestro)** — iniciativa open source para orquestrar ferramentas e agentes de IA, com skills, fluxos de trabalho e práticas de engenharia.
+- **[Aprincar](https://github.com/aprincar/platform)** — plataforma aberta de aprendizagem por meio de jogos, com arquitetura local-first.
+- **[Aprincar — jogos oficiais](https://github.com/aprincar/games-official)** — desenvolvimento e manutenção de experiências educacionais do ecossistema Aprincar.
 
-### Vamos conversar?
+## Vamos conversar?
 
-Tenho interesse em **mentorias**, trocas sobre arquitetura e liderança de engenharia, colaboração em produtos e conversas técnicas. Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/kiverteixeira/) ou conhecer mais sobre minha trajetória em [kiver.dev](https://kiver.dev).
-
----
-
-<sub>O conteúdo deste perfil é intencionalmente enxuto: projetos e tecnologias evoluem, mas engenharia, pessoas e qualidade de produto continuam no centro.</sub>
+Tenho interesse em **mentoria**, liderança e arquitetura de engenharia, colaboração em produtos e conversas técnicas. Entre em contato pelo [LinkedIn](https://www.linkedin.com/in/kiverteixeira/) ou conheça mais em [kiver.dev](https://kiver.dev).
