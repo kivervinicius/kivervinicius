@@ -1,23 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="640" height="815" viewBox="0 0 640 815" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="820" viewBox="0 0 640 820" role="img" aria-labelledby="title desc">
 <title id="title">Kiver.dev — Engenharia de software com visão de produto</title>
-<desc id="desc">Identidade editorial de Kiver Teixeira: fundo grafite, acentos vermelhos e temas arquitetura, produtos e pessoas. Site e artigos em kiver.dev.</desc>
-<rect width="640" height="815" fill="#0B0B0C"/>
-<path d="M 0 0 H 640" stroke="#FF2638" stroke-width="8"/>
-<path d="M 0 814 H 640" stroke="#343034" stroke-width="1"/>
-<text x="34" y="63" fill="#FF2638" font-family="Inter, Arial, Helvetica, sans-serif" font-size="30" font-weight="800" letter-spacing="2" text-anchor="start">KIVER.DEV</text>
-<text x="34" y="97" fill="#A19FA0" font-family="Inter, Arial, Helvetica, sans-serif" font-size="15" font-weight="600" letter-spacing="1.2" text-anchor="start">ENGENHARIA  /  LIDERANÇA  /  IA</text>
-<path d="M 34 123 H 606" stroke="#343034"/>
-<text x="30" y="214" fill="#F8F6F3" font-family="Inter, Arial, Helvetica, sans-serif" font-size="60" font-weight="800" letter-spacing="-1.5" text-anchor="start">ENGENHARIA</text>
-<text x="30" y="287" fill="#F8F6F3" font-family="Inter, Arial, Helvetica, sans-serif" font-size="60" font-weight="800" letter-spacing="-1.5" text-anchor="start">DE SOFTWARE</text>
-<text x="30" y="360" fill="#F8F6F3" font-family="Inter, Arial, Helvetica, sans-serif" font-size="60" font-weight="800" letter-spacing="-1.5" text-anchor="start">COM VISÃO</text>
-<text x="30" y="433" fill="#FF2638" font-family="Inter, Arial, Helvetica, sans-serif" font-size="60" font-weight="800" letter-spacing="-1.5" text-anchor="start">DE PRODUTO.</text>
-<path d="M 34 472 H 606" stroke="#343034"/>
-<text x="34" y="514" fill="#FF2638" font-family="Inter, Arial, Helvetica, sans-serif" font-size="19" font-weight="700" letter-spacing="1.1" text-anchor="start">01 / IDEIAS</text>
-<text x="34" y="545" fill="#F8F6F3" font-family="Inter, Arial, Helvetica, sans-serif" font-size="20" font-weight="500" letter-spacing="0" text-anchor="start">Arquitetura e decisões de engenharia.</text>
-<text x="34" y="596" fill="#FF2638" font-family="Inter, Arial, Helvetica, sans-serif" font-size="19" font-weight="700" letter-spacing="1.1" text-anchor="start">02 / PRODUTOS</text>
-<text x="34" y="627" fill="#F8F6F3" font-family="Inter, Arial, Helvetica, sans-serif" font-size="20" font-weight="500" letter-spacing="0" text-anchor="start">Software que evolui e chega à operação.</text>
-<text x="34" y="678" fill="#FF2638" font-family="Inter, Arial, Helvetica, sans-serif" font-size="19" font-weight="700" letter-spacing="1.1" text-anchor="start">03 / PESSOAS</text>
-<text x="34" y="709" fill="#F8F6F3" font-family="Inter, Arial, Helvetica, sans-serif" font-size="20" font-weight="500" letter-spacing="0" text-anchor="start">Liderança e formação de equipes.</text>
-<path d="M 34 750 H 606" stroke="#343034"/>
-<text x="34" y="784" fill="#A19FA0" font-family="Inter, Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="1.1" text-anchor="start">O FUTURO SE CONSTRÓI COM CRITÉRIO.</text>
+<desc id="desc">Capa editorial mobile do Kiver.dev com identidade grafite e vermelha.</desc>
+<rect width="640" height="820" fill="#0B0B0C"/>
+<rect width="640" height="6" fill="#FF2638"/>
+<text x="34" y="60" fill="#FF2638" font-family="Inter,ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif" font-size="30" font-weight="800" letter-spacing="2.2" text-anchor="start">KIVER.DEV</text>
+<text x="34" y="89" fill="#B3AEB1" font-family="Inter,ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif" font-size="14" font-weight="700" letter-spacing="1" text-anchor="start">SOFTWARE · ARQUITETURA · IA</text>
+<path d="M 34 116 H 606" stroke="#2A262A"/>
+<text x="34" y="196" fill="#F8F6F3" font-family="Inter,ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif" font-size="64" font-weight="800" letter-spacing="-1.6" text-anchor="start">Engenharia</text>
+<text x="34" y="270" fill="#F8F6F3" font-family="Inter,ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif" font-size="64" font-weight="800" letter-spacing="-1.6" text-anchor="start">de software</text>
+<text x="34" y="344" fill="#F8F6F3" font-family="Inter,ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif" font-size="64" font-weight="800" letter-spacing="-1.6" text-anchor="start">com visão</text>
+<text x="34" y="418" fill="#FF2638" font-family="Inter,ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif" font-size="64" font-weight="800" letter-spacing="-1.6" text-anchor="start">de produto.</text>
+<text x="34" y="468" fill="#D8D2D4" font-family="Inter,ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif" font-size="19" font-weight="500" letter-spacing="0" text-anchor="start">Arquitetura, times e IA aplicada sem perder</text>
+<text x="34" y="496" fill="#D8D2D4" font-family="Inter,ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif" font-size="19" font-weight="500" letter-spacing="0" text-anchor="start">o senso de produto e manutenção.</text>
+<path d="M 34 542 H 606" stroke="#2A262A"/>
+<text x="34" y="586" fill="#FF2638" font-family="Inter,ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif" font-size="18" font-weight="700" letter-spacing="0.8" text-anchor="start">01 / Escrevo sobre</text>
+<text x="34" y="615" fill="#F8F6F3" font-family="Inter,ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif" font-size="21" font-weight="500" letter-spacing="0" text-anchor="start">manutenção, agentes, revisão</text>
+<text x="34" y="642" fill="#F8F6F3" font-family="Inter,ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif" font-size="21" font-weight="500" letter-spacing="0" text-anchor="start">e modernização de sistemas.</text>
+<text x="34" y="700" fill="#FF2638" font-family="Inter,ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif" font-size="18" font-weight="700" letter-spacing="0.8" text-anchor="start">02 / Melhor ponto de partida</text>
+<text x="34" y="729" fill="#F8F6F3" font-family="Inter,ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif" font-size="21" font-weight="500" letter-spacing="0" text-anchor="start">kiver.dev e os artigos.</text>
+<path d="M 34 765 H 606" stroke="#2A262A"/>
+<text x="34" y="797" fill="#B3AEB1" font-family="Inter,ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif" font-size="15" font-weight="700" letter-spacing="1" text-anchor="start">O futuro se constrói com critério.</text>
 </svg>
