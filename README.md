@@ -1,53 +1,55 @@
-<!-- Perfil público de Kiver Teixeira · github.com/kivervinicius -->
+<!-- Perfil de Kiver Teixeira · Identidade visual e conteúdo alinhados ao Kiver.dev -->
 
-<picture>
-  <source media="(max-width: 680px)" srcset="./assets/terminal-mobile.svg">
-  <img src="./assets/terminal-desktop.svg" alt="Apresentação de Kiver Teixeira em formato de terminal: engenharia de software, liderança técnica, arquitetura, agentes de IA e open source." width="100%">
-</picture>
+<a href="https://kiver.dev" title="Acessar Kiver.dev">
+  <picture>
+    <source media="(max-width: 680px)" srcset="./assets/terminal-mobile.svg">
+    <img src="./assets/terminal-desktop.svg" alt="Kiver.dev — Engenharia de software com visão de produto. Arquitetura, ideias, produtos e pessoas." width="100%">
+  </picture>
+</a>
 
 <h1 align="center">Kiver Teixeira</h1>
-<p align="center"><strong>Engenharia de software · Liderança técnica · IA aplicada</strong></p>
-
+<p align="center"><strong>Engenharia de software · Arquitetura · Liderança · IA aplicada</strong></p>
 <p align="center">
-  <a href="https://kiver.dev">Artigos e projetos</a> ·
-  <a href="https://www.linkedin.com/in/kiverteixeira/">LinkedIn</a> ·
-  <a href="https://github.com/kivervinicius?tab=repositories">Repositórios</a>
+  <a href="https://kiver.dev"><strong>Kiver.dev — site e artigos</strong></a> ·
+  <a href="https://kiver.dev/artigos/">Caderno editorial</a> ·
+  <a href="https://www.linkedin.com/in/kiverteixeira/">LinkedIn</a>
 </p>
 
-## Quem sou
+## 01 / Caderno editorial
 
-Sou engenheiro de software e **Tech Lead na Omega Sistemas**, com mais de 20 anos de experiência em desenvolvimento, arquitetura e evolução de produtos. Minha trajetória passa por front-end, back-end, infraestrutura, liderança de equipes e formação de profissionais — incluindo atuação como professor universitário.
+### Ideias que merecem profundidade.
 
-Hoje concentro meus esforços em **aplicar IA à engenharia de software**: construir e coordenar agentes, melhorar fluxos de desenvolvimento e modernizar sistemas legados com critérios de qualidade, segurança e manutenção.
+No **[Kiver.dev](https://kiver.dev/artigos/)** compartilho análises e experiências sobre engenharia, arquitetura de software, liderança e inteligência artificial. O foco não é apenas acompanhar ferramentas: é discutir o que muda nas decisões técnicas, na operação e na vida de quem mantém o sistema.
 
-A IA pode acelerar a implementação. **Arquitetura, revisão, contexto e responsabilidade pela entrega continuam sendo trabalho de engenharia.**
+**Leituras selecionadas**
 
-## No que trabalho
+- **[A IA escreveu o código. Quem vai manter?](https://kiver.dev/artigos/ia-escreveu-quem-mantem/)** — O custo de compreender, revisar e evoluir código não desaparece quando a geração fica mais rápida.
+- **[Sua equipe usa IA. Mas ela já sabe trabalhar com IA?](https://kiver.dev/artigos/como-integrar-ia-equipes-desenvolvimento/)** — Contexto compartilhado, responsabilidades claras e critérios de entrega valem mais que agentes isolados.
+- **[Modernização de sistemas sem reescrita total](https://kiver.dev/artigos/leituras/modernizacao/)** — Evoluir por fronteiras e contratos reduz o risco de substituir aplicações inteiras.
+- **[O submundo dos tokens baratos](https://kiver.dev/artigos/submundo-tokens-baratos/)** — Preço, procedência, segurança e governança também fazem parte da arquitetura de IA.
 
-- **Arquitetura e modernização:** evolução gradual de sistemas, compatibilidade, integração e redução de risco em legados.
-- **AI Engineering e agentes:** orquestração, ferramentas de desenvolvimento, automação supervisionada, verificação e evidências.
-- **Liderança e formação:** decisões técnicas, desenvolvimento de equipes, mentoria e transferência de conhecimento.
-- **Open source:** ferramentas que transformam experimentos em fluxos utilizáveis e sustentáveis.
+**[Explorar todos os artigos no Kiver.dev →](https://kiver.dev/artigos/)**
 
-## Open source em destaque
+## 02 / Trajetória
 
-| Projeto | Proposta |
-| --- | --- |
-| **[IAPro Nexus](https://github.com/IAPro-Community/nexus)** | Workstation e control plane para agentes de desenvolvimento, projetos e missões verificáveis. |
-| **[Orquestrador Maestro](https://github.com/IAPro-Community/Orquestrador-Maestro)** | Processo reutilizável de contexto, skills, execução e verificação para ferramentas de IA. |
-| **[Visual Production MCP](https://github.com/kivervinicius/visual-production-mcp)** | Fluxo assistido para transformar roteiros em personagens, storyboard, mídias e montagem; integrações externas ainda em evolução. |
-| **[Aprincar](https://github.com/aprincar/platform)** | Plataforma aberta, local-first, de experiências de aprendizagem por meio de jogos. |
+Sou engenheiro de software e **Tech Lead na Omega Sistemas**, com mais de duas décadas de experiência em desenvolvimento, arquitetura e evolução de produtos digitais. Minha atuação atravessa aplicações, dados, integrações, infraestrutura e a formação de equipes. Também atuei como professor no ensino superior.
 
-## Base técnica
+Hoje dedico atenção especial à **IA aplicada ao desenvolvimento**, à **modernização de sistemas** e ao uso de agentes com limites claros, verificação e responsabilidade técnica.
 
-**Linguagens e aplicações:** Java, Spring Boot, TypeScript, React, Node.js, NestJS, Object Pascal.
+Minha referência continua a mesma: uma solução precisa funcionar para quem a utiliza e continuar compreensível para quem irá mantê-la.
 
-**Dados e infraestrutura:** PostgreSQL, SQL Server, Azure, Kubernetes, Docker, CI/CD.
+**[Conheça minha trajetória no Kiver.dev →](https://kiver.dev/#sobre)**
 
-**Práticas:** arquitetura de software, APIs, interoperabilidade, automação, revisão de código, segurança e developer experience.
+## 03 / Produtos e comunidade
 
-## Conteúdo e colaboração
+Projetos abertos são uma forma prática de investigar essas ideias e compartilhar o que funciona:
 
-Escrevo sobre **engenharia além do código**: adoção responsável de IA, agentes, arquitetura, manutenção e decisões técnicas. Também tenho interesse em colaboração open source, mentoria, assessoria técnica, palestras e treinamentos.
+- **[IAPro Nexus](https://github.com/IAPro-Community/nexus)** — coordenação de agentes de desenvolvimento, projetos, execução supervisionada e evidências.
+- **[Orquestrador Maestro](https://github.com/IAPro-Community/Orquestrador-Maestro)** — contexto, skills e fluxos de execução e verificação para ferramentas de IA.
+- **[Aprincar](https://github.com/aprincar/platform)** — plataforma aberta de aprendizagem por meio de jogos, com arquitetura local-first.
 
-[**Leia em kiver.dev**](https://kiver.dev) · [**Converse comigo no LinkedIn**](https://www.linkedin.com/in/kiverteixeira/)
+A base técnica inclui **Java, Spring Boot, TypeScript, React, Node.js, NestJS, PostgreSQL, SQL Server, Azure e Kubernetes**. São ferramentas a serviço de decisões de arquitetura, experiência de uso e manutenção — não o centro da apresentação.
+
+## 04 / Conversas
+
+Escrevo e compartilho aprendizados no **[Kiver.dev](https://kiver.dev)**. Para trocar ideias sobre arquitetura, IA aplicada, liderança técnica, formação de equipes ou colaboração, você pode me encontrar no **[LinkedIn](https://www.linkedin.com/in/kiverteixeira/)**.
