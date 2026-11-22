@@ -1,55 +1,57 @@
-<!-- Perfil de Kiver Teixeira · Identidade visual e conteúdo alinhados ao Kiver.dev -->
+<!-- Perfil de Kiver Teixeira · alinhado ao Kiver.dev -->
 
-<a href="https://kiver.dev" title="Acessar Kiver.dev">
+<a href="https://kiver.dev" title="Abrir Kiver.dev">
   <picture>
     <source media="(max-width: 680px)" srcset="./assets/terminal-mobile.svg">
-    <img src="./assets/terminal-desktop.svg" alt="Kiver.dev — Engenharia de software com visão de produto. Arquitetura, ideias, produtos e pessoas." width="100%">
+    <img src="./assets/terminal-desktop.svg" alt="Kiver.dev — Engenharia de software com visão de produto. Ideias, produtos e pessoas." width="100%">
   </picture>
 </a>
 
 <h1 align="center">Kiver Teixeira</h1>
-<p align="center"><strong>Engenharia de software · Arquitetura · Liderança · IA aplicada</strong></p>
+<p align="center"><strong>Software, arquitetura, liderança e IA aplicada.</strong></p>
 <p align="center">
-  <a href="https://kiver.dev"><strong>Kiver.dev — site e artigos</strong></a> ·
-  <a href="https://kiver.dev/artigos/">Caderno editorial</a> ·
+  <a href="https://kiver.dev"><strong>Kiver.dev</strong></a> ·
+  <a href="https://kiver.dev/artigos/">Artigos</a> ·
   <a href="https://www.linkedin.com/in/kiverteixeira/">LinkedIn</a>
 </p>
 
-## 01 / Caderno editorial
+## Oi
 
-### Ideias que merecem profundidade.
+Sou Kiver.
 
-No **[Kiver.dev](https://kiver.dev/artigos/)** compartilho análises e experiências sobre engenharia, arquitetura de software, liderança e inteligência artificial. O foco não é apenas acompanhar ferramentas: é discutir o que muda nas decisões técnicas, na operação e na vida de quem mantém o sistema.
+Trabalho com software há mais de 20 anos e hoje atuo como **Tech Lead na Omega Sistemas**.
 
-**Leituras selecionadas**
+Gosto de arquitetura, produto, times e da parte menos glamourosa — e mais importante — da engenharia: fazer sistemas evoluírem sem virar um problema maior amanhã.
 
-- **[A IA escreveu o código. Quem vai manter?](https://kiver.dev/artigos/ia-escreveu-quem-mantem/)** — O custo de compreender, revisar e evoluir código não desaparece quando a geração fica mais rápida.
-- **[Sua equipe usa IA. Mas ela já sabe trabalhar com IA?](https://kiver.dev/artigos/como-integrar-ia-equipes-desenvolvimento/)** — Contexto compartilhado, responsabilidades claras e critérios de entrega valem mais que agentes isolados.
-- **[Modernização de sistemas sem reescrita total](https://kiver.dev/artigos/leituras/modernizacao/)** — Evoluir por fronteiras e contratos reduz o risco de substituir aplicações inteiras.
-- **[O submundo dos tokens baratos](https://kiver.dev/artigos/submundo-tokens-baratos/)** — Preço, procedência, segurança e governança também fazem parte da arquitetura de IA.
+Nos últimos tempos tenho me aprofundado bastante em **IA aplicada ao desenvolvimento**: agentes, orquestração, contexto, revisão, verificação e uso responsável dentro de times de engenharia.
 
-**[Explorar todos os artigos no Kiver.dev →](https://kiver.dev/artigos/)**
+Se você quiser entender melhor meu jeito de pensar, o melhor lugar é o **[Kiver.dev](https://kiver.dev)**.
+É lá que eu escrevo sobre o que realmente me interessa no dia a dia.
 
-## 02 / Trajetória
+## Para começar pelo conteúdo
 
-Sou engenheiro de software e **Tech Lead na Omega Sistemas**, com mais de duas décadas de experiência em desenvolvimento, arquitetura e evolução de produtos digitais. Minha atuação atravessa aplicações, dados, integrações, infraestrutura e a formação de equipes. Também atuei como professor no ensino superior.
+Alguns textos que representam bem essa fase atual:
 
-Hoje dedico atenção especial à **IA aplicada ao desenvolvimento**, à **modernização de sistemas** e ao uso de agentes com limites claros, verificação e responsabilidade técnica.
+- **[A IA escreveu o código. Quem vai manter?](https://kiver.dev/artigos/ia-escreveu-quem-mantem/)**
+- **[Sua equipe usa IA. Mas ela já sabe trabalhar com IA?](https://kiver.dev/artigos/como-integrar-ia-equipes-desenvolvimento/)**
+- **[Modernização de sistemas sem reescrita total](https://kiver.dev/artigos/leituras/modernizacao/)**
+- **[O submundo dos tokens baratos](https://kiver.dev/artigos/submundo-tokens-baratos/)**
 
-Minha referência continua a mesma: uma solução precisa funcionar para quem a utiliza e continuar compreensível para quem irá mantê-la.
+→ **[Ver todos os artigos no Kiver.dev](https://kiver.dev/artigos/)**
 
-**[Conheça minha trajetória no Kiver.dev →](https://kiver.dev/#sobre)**
+## Projetos que ajudam a colocar essas ideias em prática
 
-## 03 / Produtos e comunidade
+- **[IAPro Nexus](https://github.com/IAPro-Community/nexus)** — coordenação de agentes, projetos e execução supervisionada.
+- **[Orquestrador Maestro](https://github.com/IAPro-Community/Orquestrador-Maestro)** — contexto, skills e verificação para trabalhar melhor com ferramentas de IA.
+- **[Aprincar](https://github.com/aprincar/platform)** — plataforma aberta de aprendizagem por meio de jogos.
 
-Projetos abertos são uma forma prática de investigar essas ideias e compartilhar o que funciona:
+## Base técnica
 
-- **[IAPro Nexus](https://github.com/IAPro-Community/nexus)** — coordenação de agentes de desenvolvimento, projetos, execução supervisionada e evidências.
-- **[Orquestrador Maestro](https://github.com/IAPro-Community/Orquestrador-Maestro)** — contexto, skills e fluxos de execução e verificação para ferramentas de IA.
-- **[Aprincar](https://github.com/aprincar/platform)** — plataforma aberta de aprendizagem por meio de jogos, com arquitetura local-first.
+**Java, Spring Boot, TypeScript, React, Node.js, NestJS, PostgreSQL, SQL Server, Azure, Kubernetes e Docker.**
 
-A base técnica inclui **Java, Spring Boot, TypeScript, React, Node.js, NestJS, PostgreSQL, SQL Server, Azure e Kubernetes**. São ferramentas a serviço de decisões de arquitetura, experiência de uso e manutenção — não o centro da apresentação.
+Mas, no fim, ferramenta é ferramenta.
+O que mais me interessa continua sendo decisão de engenharia, clareza de contexto, qualidade de entrega e capacidade de manutenção.
 
-## 04 / Conversas
+## Bora conversar?
 
-Escrevo e compartilho aprendizados no **[Kiver.dev](https://kiver.dev)**. Para trocar ideias sobre arquitetura, IA aplicada, liderança técnica, formação de equipes ou colaboração, você pode me encontrar no **[LinkedIn](https://www.linkedin.com/in/kiverteixeira/)**.
+Se fizer sentido trocar ideia sobre arquitetura, IA aplicada, liderança técnica, mentoria ou produto, você pode me encontrar no **[LinkedIn](https://www.linkedin.com/in/kiverteixeira/)** ou no **[Kiver.dev](https://kiver.dev)**.
