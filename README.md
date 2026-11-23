@@ -6,7 +6,7 @@
 
 # Kiver Teixeira
 
-Sou Kiver. Trabalho com software há mais de 20 anos e hoje sou Tech Lead na [Omega Sistemas](https://www.omegasistemas.com.br/).
+Sou Kiver. Trabalho com software há mais de 20 anos e hoje sou Tech Lead na Omega Sistemas.
 
 Gosto de arquitetura, de desenvolver equipes e de mexer em sistemas que já carregam anos de regras de negócio. Tenho dedicado boa parte do meu tempo a entender como usar IA no desenvolvimento sem abrir mão de contexto, revisão e responsabilidade pelo que chega à produção.
 
@@ -18,7 +18,7 @@ No **[Kiver.dev](https://kiver.dev/)** escrevo sobre esses assuntos. Aqui no Git
 - [Sua equipe usa IA. Mas ela já sabe trabalhar com IA?](https://kiver.dev/artigos/como-integrar-ia-equipes-desenvolvimento/)
 - [Modernização de sistemas sem reescrita total](https://kiver.dev/artigos/leituras/modernizacao/)
 
-**Projetos que estou acompanhando de perto:**
+**Projetos e experimentos:**
 
 - [IAPro Nexus](https://github.com/IAPro-Community/nexus) — ambiente para trabalhar com agentes de desenvolvimento.
 - [Orquestrador Maestro](https://github.com/IAPro-Community/Orquestrador-Maestro) — ferramentas e processos para dar contexto e verificar entregas feitas com IA.
