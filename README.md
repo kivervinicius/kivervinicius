@@ -1,7 +1,7 @@
 <!-- A marca é carregada diretamente do Kiver.dev; sem banner duplicado. -->
 
 <a href="https://kiver.dev">
-  <img src="https://kiver.dev/assets/brand/candidates/red-signal-v1/monogram-red.svg" alt="Kiver.dev" width="52" height="52">
+  <img src="https://kiver.dev/assets/brand/candidates/red-signal-v1/wordmark-on-dark.svg" alt="Kiver.dev — logotipo completo" width="240">
 </a>
 
 # Kiver Teixeira
