@@ -4,13 +4,11 @@
   <img src="https://kiver.dev/assets/brand/candidates/red-signal-v1/wordmark-on-dark.svg" alt="Kiver.dev — logotipo completo" width="240">
 </a>
 
-# Kiver Teixeira
-
-Sou Kiver. Trabalho com software há mais de 20 anos e hoje sou Tech Lead na Omega Sistemas.
+Trabalho com software há mais de 20 anos e hoje sou Tech Lead na Omega Sistemas.
 
 Gosto de arquitetura, de desenvolver equipes e de mexer em sistemas que já carregam anos de regras de negócio. Tenho dedicado boa parte do meu tempo a entender como usar IA no desenvolvimento sem abrir mão de contexto, revisão e responsabilidade pelo que chega à produção.
 
-No **[Kiver.dev](https://kiver.dev/)** escrevo sobre esses assuntos. Aqui no GitHub ficam os projetos e experimentos que acompanham essa trajetória.
+Escrevo sobre isso no **[meu site](https://kiver.dev/)**. Aqui no GitHub ficam os projetos e experimentos que acompanham essa trajetória.
 
 **Alguns textos do site:**
 
@@ -24,4 +22,4 @@ No **[Kiver.dev](https://kiver.dev/)** escrevo sobre esses assuntos. Aqui no Git
 - [Orquestrador Maestro](https://github.com/IAPro-Community/Orquestrador-Maestro) — ferramentas e processos para dar contexto e verificar entregas feitas com IA.
 - [Aprincar](https://github.com/aprincar/platform) — uma plataforma aberta de aprendizagem por jogos.
 
-[**Ler no Kiver.dev**](https://kiver.dev/artigos/) · [LinkedIn](https://www.linkedin.com/in/kiverteixeira/)
+[**Artigos**](https://kiver.dev/artigos/) · [LinkedIn](https://www.linkedin.com/in/kiverteixeira/)
